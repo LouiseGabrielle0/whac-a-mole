@@ -1,0 +1,32 @@
+.grid {
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 20%;
+    cursor: url("images/hammer.png"),auto;
+    
+}
+
+.square {
+height: 200px;
+width: 200px;
+border: solid black 1px;
+
+}
+
+body{
+
+}
+
+.mole {
+    background-image: url("images/trump1.jpg");
+}
+    
+
+h2 {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
